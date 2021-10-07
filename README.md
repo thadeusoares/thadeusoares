@@ -1,5 +1,5 @@
 ### I'm Thadeu Soares 👋 and one of the reasons that I like tech are the possibility of learning and programming new languages. As a Jedi like to know how to use de force. 👨‍💻 
-### I'm a Husband, Father of 👧🏻👧🏻👧🏻 and Dev.
+### I'm a Husband, Father of 👧🏻👧🏻👧🏻👶🏻 and Dev.
 <br />
 
 - 🔭 I’m currently working on new personal project
