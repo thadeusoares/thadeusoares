@@ -1,79 +1,81 @@
-### I'm Thadeu Soares 👋 and one of the reasons that I like tech are the possibility of learning and programming new languages. As a Jedi like to know how to use de force. 👨‍💻 
-### I'm a Husband, Father of 👧🏻👧🏻👧🏻👧🏻👶🏻 and Dev.
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thadeusoares/)
 
-- 🔭 I’m currently working on new personal project
-- 🌱 I’m currently learning every day 🤣
-- 💬 Ask me about Dev, Security, Analytics
-<br />
-<br />
-<br />
+# Hi, I'm Thadeu Soares 👋
 
-### Languages and Tools:
-<table><tr><td valign="top" width="33%">
-  
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
+### AI • Fraud & Identity • CRM • Solution Architecture
+Helping organizations across Latin America leverage AI, Digital Trust and Customer Intelligence to deliver better business outcomes.
 
-<img style="margin: 10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"  />  
-  
- 
+Technology professional focused on helping organizations solve complex business challenges through Artificial Intelligence, Digital Trust, Customer Experience, Data and Automation.
 
-</div>
+With 15+ years of experience across software development, solution architecture, fraud prevention, identity verification, analytics, CRM and enterprise platforms, I enjoy connecting business needs with technology that delivers measurable outcomes.
 
-</td><td valign="top" width="33%">
+---
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
-<img style="margin: 10px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JavaScript" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="JavaScript" />  
-  
+## 🚀 Current Focus
 
-<img style="margin: 10px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="JavaScript" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
-<img style="margin: 10px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
-<img style="margin: 10px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"  />
-<img style="margin: 10px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux"  />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"  />  
-</div>
+- 🤖 Generative AI & Enterprise AI
+- 🧠 AI Agents & RAG Architectures
+- 🔐 Fraud Prevention & Digital Identity
+- 👤 CIAM / IAM
+- 📊 Data Analytics & Decision Intelligence
+- 🤝 CRM & Customer Experience
+- ☁️ Cloud & Solution Architecture
+- ⚡ Automation & Integration
 
-</td><td valign="top" width="33%">
+---
 
+## 🛠️ Technologies & Platforms
 
+### AI & Automation
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Git"  />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"  />   
-<img style="margin: 10px" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /> 
-  <img style="margin: 10px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux"  />
-</div>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</td></tr></table>  
+### CRM, Data & Enterprise
 
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
 
-<br>
-<br>
+### Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thadeusoares&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-<!--
-**thadeusoares/thadeusoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud & Infrastructure
 
-Here are some ideas to get you started:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Enterprise Copilots
+- AI Agents
+- Fraud Detection
+- Identity Intelligence
+- Customer Experience
+- CRM
+- Digital Transformation
+- Data Engineering
+- Solution Architecture
+
+---
+
+## 👨‍👩‍👧‍👧‍👧‍👧‍👶 Beyond Technology
+
+- Husband
+- Father of girls only
+- Lifelong learner
+- Builder of side projects
+- Technology enthusiast
+
+---
+
+> "Technology becomes valuable when it helps people make better decisions."
